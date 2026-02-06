@@ -83,6 +83,19 @@ symbiotic-sandbox/
 
 **Scalability**: One AI system can generate unlimited, personalized debugging challenges across any programming language or domain.
 
+## Hackathon Scope (What’s Implemented)
+- JavaScript-only prototype
+- Logical Ghost engine for control-flow bugs
+- Dual execution (original vs mutated code)
+- AI-guided debugging chat
+- Local persistence
+
+## Planned / Future Work
+- Multi-language support
+- Advanced concurrency bugs
+- Instructor dashboards
+
 ---
+
 
 *Built for developers who want to level up their debugging superpowers. Because the best way to learn to find bugs is to hunt them deliberately.*
